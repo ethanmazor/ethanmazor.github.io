@@ -12,8 +12,7 @@ Threads: Signal/Information Processing & Bioengineering
 Expected Graduation: Spring 2027  
 GPA: 3.87
 
-## Relevant Coursework
-
+## Relevant Coursework  
 ### Electrical and Computer Engineering
 
 ECE 2020: Digital System Design  
