@@ -10,16 +10,6 @@ author_profile: true
 **B.S. Electrical Engineering** · Expected May 2027  
 Atlanta, GA
 
----
-
-## Research
-
-**Undergraduate Research Assistant** — Georgia Tech-Europe, Metz, France · Spring 2026  
-Advisor: Dr. Alexandre Locquet  
-Implemented Hopfield networks on the SoC FPAA (reconfigurable analog chip) to solve the NP-hard Max-Cut problem. Investigated analog annealing via external kick signals to escape local energy minima, and built a React-based Hopfield Weight Matrix Designer tool to automate FPAA configuration generation.  
-→ [See full project writeup](/portfolio/fpaa-hopfield-research/)
-
----
 
 ## Academic Projects
 
