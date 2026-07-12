@@ -36,7 +36,4 @@ CS 3600: Introduction to Artificial Intelligence
 MATH 1554: Linear Algebra  
 MATH 2551: Multivariable Calculus  
 MATH 2552: Differential Equations  
-MATH 3670: Statistics and Applications  
-
-
-PHYS 2212: Principles of Physics II
+MATH 3670: Statistics and Applications
