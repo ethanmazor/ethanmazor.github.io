@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-## Academic Projects
+<h2>Academic Projects</h2>
 
 {% assign academic_projects = site.portfolio | where: "project_type", "academic" %}
 {% for post in academic_projects %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Personal Projects
+<h2>Personal Projects</h2>
 
 {% assign personal_projects = site.portfolio | where: "project_type", "personal" %}
 {% for post in personal_projects %}
@@ -22,5 +22,5 @@ author_profile: true
 {% endfor %}
 
 {% if personal_projects.size == 0 %}
-No personal projects listed yet.
+<p>No personal projects listed yet.</p>
 {% endif %}
