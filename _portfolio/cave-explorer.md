@@ -2,6 +2,7 @@
 title: "Embedded Cave Explorer Game"
 excerpt: "Handheld dungeon crawler game on an ARM microcontroller.<br/>*Georgia Tech — Fall 2025*"
 collection: portfolio
+project_type: academic
 ---
 
 Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io/tree/main/projects/embedded-cave-explorer)
