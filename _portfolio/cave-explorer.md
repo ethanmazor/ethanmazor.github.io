@@ -1,6 +1,6 @@
 ---
 title: "Embedded Cave Explorer Game"
-excerpt: "Handheld dungeon crawler game on an ARM microcontroller.<br/>*Georgia Tech Fall 2025*"
+excerpt: "Handheld dungeon crawler game on an ARM microcontroller.<br/>*ECE 2035: Fall 2025*"
 collection: portfolio
 project_type: academic
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SCOMP GCD/LCM Hardware Peripheral"
-excerpt: "Memory mapped GCD/LCM peripheral device for the SCOMP processor.<br/>*Georgia Tech Fall 2025*"
+excerpt: "Memory mapped GCD/LCM peripheral device for the SCOMP processor.<br/>*ECE 2031: Fall 2025*"
 collection: portfolio
 project_type: academic
 ---
