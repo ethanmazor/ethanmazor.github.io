@@ -1,6 +1,6 @@
 ---
 title: "Embedded Cave Explorer Game"
-excerpt: "Handheld dungeon crawler on an ARM Cortex-M3 microcontroller — sparse hash-table world map, differential UART renderer, C/C++.<br/>*Georgia Tech — Fall 2025*"
+excerpt: "Handheld dungeon crawler game on an ARM Cortex-M3 microcontroller<br/>*Georgia Tech — Fall 2025*"
 collection: portfolio
 ---
 
@@ -8,13 +8,13 @@ Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io
 
 ---
 
-**Course:** ECE 2035 · Georgia Tech · Fall 2025  
-**Platform:** NXP LPC1768 (ARM Cortex-M3, 96 MHz, 64 KB SRAM) · mbed HAL · uLCD-144 serial display  
-**Tech:** C, C++, UART, hash tables, embedded systems
+**Course:** ECE 2035: Programming for HW/SW Systems · Georgia Tech · Fall 2025  
+**Platform:** NXP LPC1768 (ARM Cortex-M3) 
+**Tech:** C/C++, UART, embedded systems, UART, GPIO
 
 ---
 
-A handheld cave exploration game built for ECE 2035 on the LPC1768. It was designed to run within the constraints of a small embedded system and is documented here with the source and demo links below.
+A handheld cave exploration game built for ECE 2035 on the NXP LPC1768 microcontroller. It was designed to run within the constraints of a small embedded system and is documented here with the source and demo links below.
 
 ## Links
 

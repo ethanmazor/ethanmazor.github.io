@@ -1,6 +1,6 @@
 ---
 title: "SCOMP GCD/LCM Hardware Peripheral"
-excerpt: "Memory-mapped GCD/LCM co-processor peripheral in VHDL, integrated into the SCOMP 16-bit processor on a Cyclone V FPGA.<br/>*Georgia Tech — Fall 2025*"
+excerpt: "Memory-mapped GCD/LCM peripheral device for the SCOMP processor.<br/>*Georgia Tech — Fall 2025*"
 collection: portfolio
 ---
 
@@ -8,8 +8,8 @@ Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io
 
 ---
 
-**Course:** Introduction to Systems and Computer Organization (SCOMP) · Georgia Tech · Fall 2025  
-**Platform:** Intel Cyclone V FPGA · Quartus Prime  
+**Course:** ECE 2031: Digital Design Lab · Georgia Tech · Fall 2025  
+**Platform:** Intel Cyclone V FPGA · Quartus Prime
 **Tech:** VHDL, FSM design, memory-mapped I/O, FPGA synthesis
 
 ---
