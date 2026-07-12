@@ -14,12 +14,9 @@ Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io
 
 ---
 
-A handheld cave exploration game built for ECE 2035 on the LPC1768. It uses a sparse world map and lightweight rendering to fit a playable experience into a memory-constrained embedded system.
+A handheld cave exploration game built for ECE 2035 on the LPC1768. It was designed to run within the constraints of a small embedded system and is documented here with the source and demo links below.
 
-## Demo
+## Links
 
-<div style="margin: 1em 0;">
-  <a href="https://gtvault-my.sharepoint.com/:v:/g/personal/emazor7_gatech_edu/IQD1xz1DCWc0Rr_5C5jOqDVzAYGT6blx_ixtYFk__zXgBQY?e=mQE8YK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener">
-    ▶ Watch Demo Video
-  </a>
-</div>
+- [Source files](https://github.com/ethanmazor/ethanmazor.github.io/tree/main/projects/embedded-cave-explorer)
+- [Demo video](https://gtvault-my.sharepoint.com/:v:/g/personal/emazor7_gatech_edu/IQD1xz1DCWc0Rr_5C5jOqDVzAYGT6blx_ixtYFk__zXgBQY?e=mQE8YK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
