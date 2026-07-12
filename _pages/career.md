@@ -10,9 +10,9 @@ author_profile: true
 **Flock Safety**  
 Device Software Engineering Intern  
 Atlanta, GA  
-May 2026 – Aug 2026
+May 2026 to Aug 2026
 
 **Siemens Energy**  
 Cybersecurity Intern  
 Alpharetta, GA  
-Aug 2023 – May 2024
+Aug 2023 to May 2024
