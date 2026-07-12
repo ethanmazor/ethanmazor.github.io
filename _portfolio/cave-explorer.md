@@ -4,6 +4,10 @@ excerpt: "Handheld dungeon crawler on an ARM Cortex-M3 microcontroller — spars
 collection: portfolio
 ---
 
+Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io/tree/main/projects/embedded-cave-explorer)
+
+---
+
 **Course:** Programming for Hardware/Software Systems · Georgia Tech · Fall 2025  
 **Platform:** NXP LPC1768 (ARM Cortex-M3, 96 MHz, 64 KB SRAM) · mbed HAL · uLCD-144 serial display  
 **Tech:** C, C++, UART, hash tables, embedded systems

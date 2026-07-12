@@ -4,6 +4,10 @@ excerpt: "Memory-mapped GCD/LCM co-processor peripheral in VHDL, integrated into
 collection: portfolio
 ---
 
+Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io/tree/main/projects/scomp-gcd-peripheral)
+
+---
+
 **Course:** Introduction to Systems and Computer Organization (SCOMP) · Georgia Tech · Fall 2025  
 **Platform:** Intel Cyclone V FPGA · Quartus Prime  
 **Tech:** VHDL, FSM design, memory-mapped I/O, FPGA synthesis

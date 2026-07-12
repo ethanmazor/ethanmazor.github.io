@@ -4,6 +4,10 @@ excerpt: "Undergraduate research implementing Hopfield networks on a reconfigura
 collection: portfolio
 ---
 
+Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io/tree/main/projects/fpaa-hopfield-research)
+
+---
+
 **Role:** Undergraduate Research Assistant  
 **Advisor:** Dr. Alexandre Locquet · Georgia Institute of Technology (Georgia Tech-Europe), Metz, France  
 **Period:** Spring 2026  
