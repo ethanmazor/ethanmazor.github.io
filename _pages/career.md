@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Career"
+title: ""
 permalink: /career/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Academics"
+title: ""
 permalink: /academics/
 author_profile: true
 ---
