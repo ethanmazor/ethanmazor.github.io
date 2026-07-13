@@ -1,6 +1,6 @@
 ---
 title: "Embedded Cave Explorer Game"
-excerpt: "Handheld dungeon crawler game on an ARM microcontroller.<br/>*ECE 2035*"
+excerpt: "Handheld dungeon crawler game on an ARM microcontroller.<br/>*ECE 2035: Programming for HW/SW Systems*"
 collection: portfolio
 project_type: academic
 ---
