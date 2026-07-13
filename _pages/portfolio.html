@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Projects"
+title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h2>Academic</h2>
+<h2>Academic Projects</h2>
 
 {% assign academic_projects = site.portfolio | where: "project_type", "academic" %}
 {% for post in academic_projects %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Personal</h2>
+<h2>Personal Projects</h2>
 
 {% assign personal_projects = site.portfolio | where: "project_type", "personal" %}
 {% for post in personal_projects %}
