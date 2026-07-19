@@ -10,7 +10,7 @@ Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io
 ---
 
 **Course:** ECE 2035: Programming for HW/SW Systems · Georgia Tech · Fall 2025  
-**Platform:** NXP LPC1768 (ARM Cortex M3) 
+**Platform:** NXP LPC1768 (ARM Cortex M3)   
 **Tech:** C/C++, UART, embedded systems, UART, GPIO
 
 ---

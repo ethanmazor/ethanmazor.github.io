@@ -10,7 +10,7 @@ Source files: [GitHub folder](https://github.com/ethanmazor/ethanmazor.github.io
 ---
 
 **Course:** ECE 2031: Digital Design Lab · Georgia Tech · Fall 2025  
-**Platform:** Intel Cyclone V FPGA · Quartus Prime
+**Platform:** Intel Cyclone V FPGA · Quartus Prime  
 **Tech:** VHDL, FSM design, memory mapped I/O, FPGA synthesis
 
 ---
